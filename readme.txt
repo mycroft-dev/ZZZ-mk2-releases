@@ -29,7 +29,7 @@ which will have debian packages that can be installed in the rootfs:
   - aawscdconf package (there may be a choice of aawsdconf packages for
     different mark2 configurations)
 
-To update mark2 with a new BSP release, the following should be done
+To update mark2 with a new Aaware release, the following should be done
 on a running system:
  - Download the mk2-aaw* release and unpack it.
  - dpkg -i mk2-aaw-*/*driver*.deb
