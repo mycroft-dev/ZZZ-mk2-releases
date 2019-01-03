@@ -35,7 +35,7 @@ on a running system:
  - dpkg -i mk2-aaw-*/*driver*.deb
  - dpkg -i mk2-aaw-*/*aawutil*.deb
  - dpkg -i mk2-aaw-*/*aawscd*.deb
- - dpkg -i mk2-aaw-*/*conf*m8*.deb  (install 8-mic config)
+ - dpkg -i mk2-aaw-*/*conf*8m*.deb  (install 8-mic config)
 
 
 To create a bootable SD card with a "full" rootfs snapshot that already has the
